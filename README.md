@@ -1,1 +1,1 @@
-# Always_Google_Chrome_Incognito
+# Always Launch Google Chrome in Incognito Mode
