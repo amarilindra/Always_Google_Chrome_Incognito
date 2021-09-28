@@ -12,7 +12,7 @@ However, in macOS, we need to make use of the Automator app and a simple shell s
 
 I have made a simple Automator app for macOS named **Google Chome Incognito** to make things easier.
 
-<a href="app/Google Chrome Incognito.zip"><img src="assets/download.png" style="width:250px;height:auto" /></a>
+<a href="https://github.com/amarilindra/Always_Google_Chrome_Incognito/raw/main/app/Google%20Chrome%20Incognito.zip"><img src="assets/download.png" style="width:250px;height:auto" /></a>
 
 To use this Automator app, click on the above button and download **Google Chrome Incognito.zip** file to your device. Extract it and you find the **Google Chrome Incognito**
 
