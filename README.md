@@ -53,6 +53,7 @@ fi
 
 exit 0
 ```
+**Credit:** <a href="https://apple.stackexchange.com/a/68882/233377">Adrian Zaugg</a>
 
 ## Windows
 
