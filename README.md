@@ -1,6 +1,6 @@
+# Always Launch Google Chrome in Incognito Mode
 
-# <img src="assets/Google_Chrome_Incognito.png" style="width:50px;height:auto;margin-right:20px;vertical-align:middle; " />Always Launch Google Chrome in Incognito Mode
-
+<img src="assets/Google_Chrome_Incognito.png" style="width:150px;height:auto;margin-bottom:20px;margin-top:20px;" />
 
 Privacy is what we all need in this internet era and Incognito Mode (Private browsing) on Google Chrome partially helps in achieving it.
 
