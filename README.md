@@ -4,7 +4,14 @@
 
 Privacy is what we all need in this internet era and Incognito Mode (Private browsing) on Google Chrome partially helps in achieving it.
 
-Here is how you can by default open Google Chrome in Incognito mode on Mac, Windows, Linux, Android, and iOS/iPadOS.
+Here is how you can by default open Google Chrome in Incognito mode on Mac, Windows, Linux, Android, iOS and iPadOS.
+
+- <a href="#macOS">macOS</a>
+- <a href="#windows">Windows</a>
+- <a href="#linux">Linux</a>
+- <a href="#android">Android</a>
+- <a href="#ios-and-ipados">iOS</a>
+- <a href="#ios-and-ipados">iPadOS</a>
 
 ## macOS
 
