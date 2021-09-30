@@ -110,5 +110,3 @@ exit 0
 1. Tap on **Incognito Search** to open launch incognito window.
 
 <img src="assets/iphone-ipad.png" style="width:100%;height:auto" />
-
-## Donate
