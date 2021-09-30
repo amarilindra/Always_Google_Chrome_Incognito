@@ -13,6 +13,8 @@ Here is how you can by default open Google Chrome in Incognito mode on Mac, Wind
 - <a href="#ios-and-ipados">iOS</a>
 - <a href="#ios-and-ipados">iPadOS</a>
 
+For more information and detailed blog post, <a href="https://www.geekdashboard.com/how-to-always-launch-google-chrome-in-incognito-mode/">visit How to Always Launch Google Chrome in Incognito Mode on Geek Dashboard</a>
+
 ## macOS
 
 <img src="assets/Google_Chrome_Incognito_In_Action.gif" style="width:100%;height:auto" />
@@ -60,12 +62,53 @@ fi
 
 exit 0
 ```
+
+**Alternative Script**
+```sh
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --incognito
+```
 **Credit:** <a href="https://apple.stackexchange.com/a/68882/233377">Adrian Zaugg</a>
 
 ## Windows
 
+1. Open **Start Menu** and search **Google Chrome**
+1. Right click on Google Chrome and select **Properties**
+1. Click on **Shortcut** tab
+1. Added space and append `-incognito` in the **Tagret** field.
+1. Click **Apply** and then **Okay**
+
+**Before:** `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.”`
+
+**After:** `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.” -incognito`
+
+<img src="assets/windows.png" style="max-width:350px;height:auto" />
+
 ## Linux
+
+1. Right click on **Google Chrome** icon
+1. Select **Properties**
+1. Click on **Basic** tab
+1. Added space and append `-incognito` in the **Command** field.
+1. Click **Close** to save changes.
+
 
 ## Android
 
+1. **Long Press** Google Chrome icon on home screen
+1. From **Qick Shortcuts**, drag and drop **New Incognito tab** to your home screen to create a Incognito shortcut.
+1. Replace actual **Google Chrome**  icon with above shortcut.
+
+<img src="assets/android.jpeg" style="width:100%;height:auto" />
+
+
 ## iOS and iPadOS
+
+1. Tap and hold on empty space of your home screen.
+1. Select **+** icon on top right.
+1. Scroll down and select **Google Chrome**
+1. Add **Google Chrome Quick Actions** widget to your home screen.
+1. Tap on **Incognito Search** to open launch incognito window.
+
+<img src="assets/iphone-ipad.png" style="width:100%;height:auto" />
+
+## Donate
