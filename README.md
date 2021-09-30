@@ -81,7 +81,7 @@ exit 0
 
 **After:** `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.” -incognito`
 
-<img src="assets/windows.png" style="max-width:350px;height:auto" />
+<img src="assets/Windows.png" style="max-width:350px;height:auto" />
 
 ## Linux
 
@@ -98,7 +98,7 @@ exit 0
 1. From **Qick Shortcuts**, drag and drop **New Incognito tab** to your home screen to create a Incognito shortcut.
 1. Replace actual **Google Chrome**  icon with above shortcut.
 
-<img src="assets/android.jpeg" style="width:100%;height:auto" />
+<img src="assets/Android.jpeg" style="width:100%;height:auto" />
 
 
 ## iOS and iPadOS
@@ -109,4 +109,4 @@ exit 0
 1. Add **Google Chrome Quick Actions** widget to your home screen.
 1. Tap on **Incognito Search** to open launch incognito window.
 
-<img src="assets/iphone-ipad.png" style="width:100%;height:auto" />
+<img src="assets/iPhone-iPad.png" style="width:100%;height:auto" />
